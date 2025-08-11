@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Set the base URL for your backend API
 const API = axios.create({
-  baseURL: 'http://localhost:3001/api'
+  baseURL: 'https://social-automation-app-backend.onrender.com/api'
 });
 
 // A function to set the JWT for all future requests
