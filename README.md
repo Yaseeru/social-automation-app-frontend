@@ -126,6 +126,3 @@ Contributions, issues, and suggestions are always welcome!
 ```
 
 ---
-
-Would you like me to also add **badges** (like Node.js, React, MongoDB, etc.) and a **screenshots/demo section** so your README looks more professional and GitHub-friendly?
-```
