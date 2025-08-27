@@ -1,6 +1,3 @@
-Here’s a polished **README.md** version of your content with proper formatting and structure:
-
-````markdown
 # X Automation App
 
 A full-stack, AI-powered social media automation tool designed to help developers and content creators maintain a consistent and data-driven presence on **X (formerly Twitter)**.  
@@ -75,7 +72,7 @@ The application is built on a **microservice architecture** for scalability and 
 **Clone the repository:**
 ```bash
 git clone <repository-url> && cd x-automation-app
-````
+
 
 #### Backend Setup
 
